@@ -1,0 +1,19 @@
+.image_header{
+  width: 180px;
+ height: 40px;
+}
+.map{
+  width: 60%;
+  float:left;
+  height: 80%;
+}
+.address{
+  width: 35%;
+  float: right;
+  margin-left: 5%;
+  height: 80%;
+}
+.contact_image{
+  width: 200px;
+  height: 200px;
+}

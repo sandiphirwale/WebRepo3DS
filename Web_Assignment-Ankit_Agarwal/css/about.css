@@ -1,0 +1,22 @@
+.image_header{
+  width: 180px;
+ height: 40px;
+}
+.about_image_container{
+  width: 20%;
+  float:left;
+  height: 80%;
+}
+.about_image{
+  width: 300px;
+  height: 300px;
+}
+.about_content_container{
+  width: 75%;
+  float: right;
+  margin-left: 5%;
+  height: 80%;
+}
+.left_margin{
+  margin-left: 20px;
+}
